@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secure</string>
+    <string name="codePrompt">Code ?</string>
+
+</resources>
